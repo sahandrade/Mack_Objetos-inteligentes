@@ -1,0 +1,13 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-aedes": "~0.11.1",
+        "node-red-contrib-counter": "~0.1.6",
+        "node-red-contrib-ui-time-scheduler": "~1.17.2",
+        "node-red-node-email": "~2.0.1",
+        "node-red-node-serialport": "~1.0.4"
+    }
+}
